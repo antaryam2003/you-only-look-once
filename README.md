@@ -1,7 +1,7 @@
 # Antarya Stamatics YOLO Assignment 3
 
 This project implements a **Convolutional Neural Network (CNN)** for handwritten digit recognition (similar to MNIST classification).  
-The notebook walks through **data preprocessing, model building, training, evaluation, and prediction submission**.
+The notebook walks through **data preprocessing, model building, training, evaluation, and prediction submission**. 
 
 ---
 
